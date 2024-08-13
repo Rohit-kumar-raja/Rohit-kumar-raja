@@ -7,7 +7,7 @@ I'm a Full Stack Developer specializing in **Laravel PHP**, with extensive exper
 
 ## 🔧 Skills
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Laravel, PHP, MySQL, Vue.js, Nuxt.js
+- **Full Stack**: Laravel, PHP, MySQL, Vue.js, Nuxt.js
 - **API Development**: Laravel, PHP, MySQL
 - **DevOps**: Docker, AWS, GIT, CI/CD
 - **Soft Skills**: Problem-Solving, Critical Thinking
